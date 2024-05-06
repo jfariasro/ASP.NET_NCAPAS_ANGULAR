@@ -1,0 +1,17 @@
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.BLL.deps.json
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.BLL.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.Models.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\bin\Debug\net8.0\appWeb.Models.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.csproj.AssemblyReference.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.csproj.Up2Date
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\refint\appWeb.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\appWeb.BLL.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.BLL\obj\Debug\net8.0\ref\appWeb.BLL.dll

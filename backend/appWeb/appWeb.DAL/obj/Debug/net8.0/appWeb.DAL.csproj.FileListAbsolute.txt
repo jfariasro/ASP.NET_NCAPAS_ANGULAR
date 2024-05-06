@@ -1,0 +1,17 @@
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.DAL.deps.json
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.Models.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.Models.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.csproj.AssemblyReference.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.csproj.Up2Date
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\refint\appWeb.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\ref\appWeb.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\bin\Debug\net8.0\appWeb.DAL.runtimeconfig.json
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.DAL\obj\Debug\net8.0\appWeb.DAL.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\bin\Debug\net8.0\appWeb.Models.deps.json
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\bin\Debug\net8.0\appWeb.Models.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\bin\Debug\net8.0\appWeb.Models.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\refint\appWeb.Models.dll
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\appWeb.Models.pdb
+C:\Users\Ruben\Music\ASP.NET\AppWebAngular\backend\appWeb\appWeb.Models\obj\Debug\net8.0\ref\appWeb.Models.dll
