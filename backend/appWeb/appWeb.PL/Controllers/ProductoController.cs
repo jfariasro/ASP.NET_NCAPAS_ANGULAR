@@ -41,7 +41,16 @@ namespace appWeb.PL.Controllers
         {
             try
             {
-                var producto = await _service.Buscar(id);
+                var modelo = await _service.Buscar(id);
+
+                var producto = new ProductoVM()
+                {
+                    Idproducto = modelo.Idproducto,
+                    Nombre = modelo.Nombre,
+                    Descripcion = modelo.Descripcion,
+                    Cantidad = modelo.Cantidad.ToString(),
+                    Precio = modelo.Precio.ToString()
+                };
 
                 return (producto == null) ? NotFound() :
                     StatusCode(StatusCodes.Status200OK, producto);
@@ -56,7 +65,16 @@ namespace appWeb.PL.Controllers
         [Route("Obtener/{nombreProducto}")]
         public async Task<IActionResult> ObtenerPorNombre([FromRoute] string nombreProducto)
         {
-            var producto = await _service.ObtenerPorNombre(nombreProducto);
+            var modelo = await _service.ObtenerPorNombre(nombreProducto);
+
+            var producto = new ProductoVM()
+            {
+                Idproducto = modelo.Idproducto,
+                Nombre = modelo.Nombre,
+                Descripcion = modelo.Descripcion,
+                Cantidad = modelo.Cantidad.ToString(),
+                Precio = modelo.Precio.ToString()
+            };
 
             return StatusCode(StatusCodes.Status200OK, producto);
         }
